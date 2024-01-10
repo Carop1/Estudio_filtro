@@ -13,7 +13,6 @@ if __name__ == '__main__':
         except ValueError:
             print("Error en el dato ingresado")
         else:
-            
             if(opMainMenu == 1):
                 pass
             elif (opMainMenu == 2):

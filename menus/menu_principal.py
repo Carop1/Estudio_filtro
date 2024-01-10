@@ -1,4 +1,4 @@
-opciones = ['Registrar nuevo cliente','Borrar Cliente','Editar Cliente','Buscar','salir']
+opciones = ['Registrar nuevo cliente','Borrar Cliente','Actualizar Cliente','Buscar','salir']
 
 
 
